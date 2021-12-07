@@ -1,2 +1,2 @@
 
-echo "succeed"
+echo "success"
