@@ -1,2 +1,2 @@
 
-echo "success"
+echo "success = reussite"
